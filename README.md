@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![sunnyside-screenshot](https://github.com/aomsk/side-agency-landing-page/blob/main/assets/sunnyside-screenshot.png?raw=true)
 
 ### Links
 
