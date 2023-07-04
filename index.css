@@ -487,6 +487,11 @@ footer {
   color: hsl(168, 34%, 41%);
 }
 
+.footer_menu a:hover {
+  padding: 1rem;
+  color: hsl(0, 0%, 100%);
+}
+
 .social_icon img {
   padding: 1rem;
   margin-top: 4rem;
